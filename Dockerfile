@@ -19,3 +19,4 @@ CMD ["node" , "server.js"]
 
 # https://www.youtube.com/watch?v=XeoZstvyew8 for new docker project
 # 2048 game using docker and AWS 
+test 
